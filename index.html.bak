@@ -123,15 +123,15 @@
                     <!-- Intro One Content Start -->
                     <div class="col-12" data-aos="fade-up">
                         <div class="intro4-content headline-active text-center">
-                            <h1 class="title ah-headline">We Take Learning to 
+                            <h1 class="title ah-headline">We Take Learning  
                                 <span class="ah-words-wrapper">
-                                    <b class="is-visible">New Heights</b>
+                                    <b class="is-visible">To New Heights</b>
+                                    <b>Effectively</b>
                                     <b>Intensively</b>
-                                    <b>Extensively</b>
 
                                 </span>
                             </h1>
-                            <p>We believe everyone has the capacity to be creative. <br>Turitor is a place where people develop their own potential.</p>
+                            <p>We believe everyone has the capacity to be creative. <br>Skillio is a place where people develop their own potential.</p>
 							<a href="tel:+919823556449" class="btn btn-light btn-hover-primary">Contact Us Now</a>
                         </div>
                     </div>
@@ -151,11 +151,68 @@
         </div>
         <!-- Slider/Intro Section End -->
 		
+		
+		
 		<!-- Learners Section Start -->
         <div class="learners-section section bg-pattern" data-bg-image="assets/images/bg/background-pattern-grid-line.png" data-bg-color="#f8f8f8">
             <div class="container mt-minus-125">
 
                 <!-- Feature Wrapper Start -->
+                <div class="row row-cols-lg-2 row-cols-md-2 row-cols-sm-2 row-cols-1 max-mb-n30">
+
+                    <!-- Feature Start (Icon Box) -->
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/ind.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">1 to 1 Tutoring </br> Availabe Online & Offline </h3>
+                                <div class="desc">
+                                    <p>On-Demand, 1-to-1 Tutoring Anytime, Anywhere from experts with top university and cultural institutions, who'll teach students from their vast experience.</p>
+                                </div>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <!-- Feature Start (Icon Box) -->
+
+                    <!-- Feature Start (Icon Box) -->
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/group tutor.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">Group Tutoring </br> Availabe Online & Offline </h3>
+                                <div class="desc">
+                                    <p>On-Demand, Group Tutoring Anytime, Anywhere from experts with top university and cultural institutions, who'll teach students from their vast experience.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- Feature Start (Icon Box) -->
+
+                </div>
+                <!-- Feature Wrapper End -->
+
+               
+            </div>
+        </div>
+        <!-- Learners Section End -->
+		
+		
+		
+		<!-- CTA Section Start -->
+        <div class="cta-section section section-padding" data-bg-color="#f8f8f8">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="cta-content animation-shape-three text-center">
+                            <span class="sub-title">Start today for getting <span>Best Coaching</span></span>
+                            <h2 class="title">You can be your own guiding star with our help!</h2>
+							
+							<!-- Feature Wrapper Start -->
                 <div class="row row-cols-lg-4 row-cols-md-2 row-cols-sm-2 row-cols-1 max-mb-n30">
 
                     <!-- Feature Start (Icon Box) -->
@@ -184,7 +241,7 @@
                             <div class="content">
                                 <h3 class="title fz-20">Individual Attention</h3>
                                 <div class="desc">
-                                    <p>You can store online lessons via online cloud or download to your device and revise lessons on the way.</p>
+                                    <p>Individual attention to each students whether its online mode or offline mode of learning. Our experts do focus on every learner potential.</p>
                                 </div>
                             </div>
                         </a>
@@ -200,7 +257,7 @@
                             <div class="content">
                                 <h3 class="title fz-20">Doubt Solving Sessions</h3>
                                 <div class="desc">
-                                    <p>We provide study materials with various formats: video, audio, slides, doc, prints, books and applications.</p>
+                                    <p>Our mentors clears all your doubts during and after every session with effective methodology. </p>
                                 </div>
                             </div>
                         </a>
@@ -216,7 +273,7 @@
                             <div class="content">
                                 <h3 class="title fz-20">Regular Updates to Parents</h3>
                                 <div class="desc">
-                                    <p>We provide study materials with various formats: video, audio, slides, doc, prints, books and applications.</p>
+                                    <p>Skillio takes care of regular tracking and updates of student performance, skill upgrades and provide to parents for success.</p>
                                 </div>
                             </div>
                         </a>
@@ -225,6 +282,87 @@
 
                 </div>
                 <!-- Feature Wrapper End -->
+						
+                            <!-- Animation Shape Start -->
+                            <div class="shape shape-1 scene">
+                                <span data-depth="4"></span>
+                            </div>
+                            <div class="shape shape-2 scene">
+                                <span data-depth="4"></span>
+                            </div>
+                            <!-- Animation Shape End -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- CTA Section End -->
+		
+		
+		<!-- Learners Section Start 
+        <div class="learners-section section bg-pattern" data-bg-image="assets/images/bg/background-pattern-grid-line.png" data-bg-color="#f8f8f8">
+            <div class="container mt-minus-125">
+
+                <div class="row row-cols-lg-4 row-cols-md-2 row-cols-sm-2 row-cols-1 max-mb-n30">
+
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/cert teac.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">Certified Teachers</h3>
+                                <div class="desc">
+                                    <p>Learn from experts with top university and cultural institutions, who'll teach students from their vast experience.</p>
+                                </div>
+                               
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/individual attention.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">Individual Attention</h3>
+                                <div class="desc">
+                                    <p>You can store online lessons via online cloud or download to your device and revise lessons on the way.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/doubt solving sessions.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">Doubt Solving Sessions</h3>
+                                <div class="desc">
+                                    <p>We provide study materials with various formats: video, audio, slides, doc, prints, books and applications.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+					
+                    <div class="col max-mb-20" data-aos="fade-up">
+                        <a class="icon-box text-center" data-bg-color="#fff">
+                            <div class="icon">
+                                <img src="assets/images/parent notification.png" alt="">
+                            </div>
+                            <div class="content">
+                                <h3 class="title fz-20">Regular Updates to Parents</h3>
+                                <div class="desc">
+                                    <p>We provide study materials with various formats: video, audio, slides, doc, prints, books and applications.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
 
                
             </div>
@@ -241,9 +379,9 @@
                     <div class="col-lg-6 col-md-12 order-lg-1 order-2">
                         <div class="about-content mt-sm-50 mt-xs-50">
                             <span class="sub-title">Upgrade your <strong>Skills</strong></span>
-                            <h2 class="title">Transform your life <span>through online education</span></h2>
+                            <h2 class="title">Transform your life with <span>Skillio</span></h2>
 							
-                            <p>Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month. </p>
+                            <p>Transform your life with our highly qualified Expert Tutors who teaches with Effective Methodology which uplifts student career with Exceptional Support with regular tracking and updates of student performance. </p>
                             <a class="link link-lg" href="tel:+919823556449"> Have questions?​ <mark>Contact Us Now <i class="far fa-long-arrow-right"></i></mark></a>
 							
                         </div>
@@ -363,7 +501,7 @@
                         <div class="about-content mt-sm-50 mt-xs-50">
                             <span class="sub-title">how we work</span>
                             <h2 class="title">Upgrade Your Skills <span>Upgrade Your Life</span> </h2>
-                            <p>Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month. </p>
+                            <p><b>Skillio</b> focuses on effective methodology of teaching. We follow <b>KWL</b> method (Know, Want-to-know, and Learned) which is an effective way to read with purpose and lead to significant improvement in your ability to learn efficiently and to retain what you have learned.  </p>
                             <a class="link link-lg" href="tel:+919823556449"><mark>Contact Us Now <i class="far fa-long-arrow-right"></i></mark></a>
                         </div>
                     </div>
@@ -459,12 +597,13 @@
                     <!-- Footer Widget Start -->
                     <div class="col-12 col-md-12 col-12 max-mb-50">
                         <div class="footer-widget">
-                            <h4 class="footer-widget-title">Address</h4>
+                            <h4 class="footer-widget-title">Contact Us</h4>
                             <div class="footer-widget-content">
                                 <div class="content">
-                                    <p>Shop No.08, Sukhwani Boulevard Commerz, Sukhwani Panorama, Sus, Pune 411021</p>
-                                    <p>91 9823556449 (5pm - 9pm IST, Monday - Saturday) </p>
-                                    <p><a href="#">info@skillio.in </a></p>
+                                    <p><b>Mobile:</b> <a href="tel:+919823556449"> +91 9823556449</a> | <a href="tel:+919407107855">+91 9407107855</a> </br>
+									<b>Mon-Sat:</b> (11 AM - 9 PM IST) </br>
+                                    <b>Email:</b> <a href="mailto:info@skillio.in"> info@skillio.in </a></br>
+									<b>Address:</b> Sukhwani Boulevard Commerz, Sukhwani Panorama, Sus, Pune 411021</p>
                                 </div>
                                 <div class="footer-social-inline">
                                     <a href="#"><i class="fab fa-facebook-square"></i></a>
