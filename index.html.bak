@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -15,11 +14,8 @@
     <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
-
 </head>
-
 <body>
-
     <div id="page">
         <!-- Header Section Start -->
         <div class="header-section header-fluid header-left sticky-header section">
@@ -64,24 +60,20 @@
                         <div class="col-xl-5 col-auto">
                             <div class="header-right">
                                 <div class="inner">
-								
                                     <!-- Header Login Start -->
                                     <div class="header-login">
                                         <a href="tel:+918999635884"><i class="far fa-mobile"></i>&nbsp +91 8999 635 884</a>
                                     </div>
                                     <!-- Header Login End -->
-
                                 </div>
                             </div>
                         </div>
                         <!-- Header Right End -->
-
                     </div>
                 </div>
             </div>
         </div>
         <!-- Header Section End -->
-		
 		
 		<!-- Slider/Intro Section Start -->
         <div class="intro4-section section section-fluid" data-bg-image="assets/images/bg-1.jpg">
@@ -118,8 +110,6 @@
 
         </div>
         <!-- Slider/Intro Section End -->
-		
-		
 		
 		<!-- Learners Section Start -->
         <div class="learners-section section bg-pattern" data-bg-image="assets/images/bg/background-pattern-grid-line.png" data-bg-color="#f8f8f8">
@@ -163,13 +153,9 @@
 
                 </div>
                 <!-- Feature Wrapper End -->
-
-               
             </div>
         </div>
         <!-- Learners Section End -->
-		
-		
 		
 		<!-- CTA Section Start -->
         <div class="cta-section section section-padding" data-bg-color="#f8f8f8">
@@ -194,7 +180,6 @@
                                 <div class="desc">
                                     <p>Learn from experts, belongs to top university and cultural institutions, who'll teach students from their vast experience.</p>
                                 </div>
-                               
                             </div>
                         </a>
                     </div>
@@ -247,7 +232,6 @@
                         </a>
                     </div>
                     <!-- Feature Start (Icon Box) -->
-
                 </div>
                 <!-- Feature Wrapper End -->
 						
@@ -289,7 +273,6 @@
                             <div class="about-image-two">
                                 <img src="assets/images/image-01.png" alt="about02">
                             </div>
-
 
                             <!-- Animation Shape Start -->
                             <div class="shape shape-1 scene">
@@ -405,8 +388,6 @@
         </div>
         <!-- About Video Section End -->
 
-
-
         <!-- Team Section Start -->
         <div class="team-section section section-padding-bottom">
             <div class="container">
@@ -455,7 +436,6 @@
         </div>
         <!-- Team Section End -->
 		
-		
 		<!-- CTA Section Start -->
         <div class="cta-section section section-padding">
             <div class="container">
@@ -480,7 +460,6 @@
             </div>
         </div>
         <!-- CTA Section End -->
-
 
         <div class="footer-section section">
             <div class="container">
@@ -509,9 +488,6 @@
                         </div>
                     </div>
                     <!-- Footer Widget End -->
-
-              
-
                 </div>
                 <!-- Footer Top Widgets End -->
 
@@ -522,10 +498,8 @@
                     </div>
                 </div>
                 <!-- Footer Copyright End -->
-
             </div>
         </div>
-
 
         <!-- Scroll Top Start -->
         <a href="#" class="scroll-top" id="scroll-top">
@@ -534,8 +508,7 @@
         </a>
         <!-- Scroll Top End -->
     </div>
-
-
+	
     <!-- Use the minified version files listed below for better performance and remove the files listed above -->
     <script src="assets/js/vendor/vendor.min.js"></script>
     <script src="assets/js/plugins/plugins.min.js"></script>
